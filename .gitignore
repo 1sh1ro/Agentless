@@ -1,0 +1,9 @@
+*.sh
+
+# 忽略所有结果文件夹，如果结果不需要版本控制
+results/
+
+# 或者只忽略特定的结果文件
+**/results/linux_final*.jsonl
+
+linux/
