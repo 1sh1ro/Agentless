@@ -1,7 +1,7 @@
-我tm真服了，原文readme写得不清不楚，环境配半天
+Agentless readme.md is useless:-)
 ```python
-git clone https://github.com/1sh1ro/fucktju250630.git
-cd fucktju250630/Agentless
+git clone https://github.com/1sh1ro/Agentless.git
+cd Agentless
 
 conda create -n agentless python=3.11 
 conda activate agentless
